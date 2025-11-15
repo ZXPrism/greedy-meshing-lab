@@ -1,0 +1,20 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+#grids {
+    display: grid;
+    width: 80vmin;
+    height: 80vmin;
+    border-radius: 10px;
+    overflow: hidden;
+    gap: 1px;
+}
+
+.grid-cell {
+    border: 1px solid #ccc;
+}

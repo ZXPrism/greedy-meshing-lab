@@ -1,0 +1,3 @@
+# greedy-meshing-lab
+
+Reference: https://0fps.net/2012/06/30/meshing-in-a-minecraft-game/
